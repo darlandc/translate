@@ -1,0 +1,11 @@
+{
+    "HOME": {
+      "TITLE": "Hello you motherfucker!",
+      "SELECT": "Change language"
+    },
+    "messages":  {
+      "text00001": "This an a static text! #1",
+      "text00002": "This an a static text! #2"
+    }
+  }
+  

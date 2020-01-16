@@ -1,0 +1,11 @@
+{
+    "HOME": {
+      "TITLE": "Olá seu bastardo!",
+      "SELECT": "Selecione o idioma"
+    },
+    "messages":  {
+      "text00001": "Este é um texto estático! #1",
+      "text00002": "Este é um texto estático! #2"
+    }
+  }
+  
